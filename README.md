@@ -1,5 +1,4 @@
 # Gemini_Chat
-# Gemini_Chat
 Gemini Chat
 
 Gemini Chat is an AI-powered, dynamic chat interface designed to deliver personalized responses, suggestive prompts, and an intuitive user experience. The project leverages modern web technologies to provide a sleek, responsive UI and integrates with an AI API for generating content-rich conversations.
